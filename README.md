@@ -1,1 +1,1 @@
-# sigma ## advent of code part1
+# sigma ## advent of code part2
